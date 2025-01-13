@@ -2,12 +2,9 @@ package main
 
 import "fmt"
 
-func main() {
-
-	a := 100;
-	fmt.Println(a);
-
-
+func lmain() {
+	a := 100
+	fmt.Println(a)
 	nam := "Anower hossain!"
-	fmt.Println(nam);
+	fmt.Println(nam)
 }
